@@ -25,4 +25,16 @@ body {
 .alert {
 	color: red;
 	font-size: 1.5rem;
+	font-size: 1rem;
+}
+input {
+	height: 1.5rem;
+	width: 100%;
+}
+.container {
+	display: flex;
+	flex-direction: column;
+}
+h2 {
+	text-align: center;
 }
